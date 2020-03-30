@@ -13,4 +13,15 @@ be passed in as numpy NDArrays, to make it friendly to CV folks.
 See python/test.py for how to use it.
 
 
+## Dependencies
+
+Python modules:
+* cffi
+* numpy
+* PIL
+
+Others:
+* Vulkan enabled graphics driver
+* Vulkan SDK (for Linux)
+
 
